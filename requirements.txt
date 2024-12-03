@@ -1,0 +1,7 @@
+Flask
+streamlit
+pandas
+numpy
+scikit-learn
+geopy
+
